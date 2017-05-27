@@ -162,8 +162,8 @@ def get_features_for_sklearn(X, Y):
 
 
 if __name__ == '__main__':
-    load_bof_data()
-    exit()
+    # load_bof_data()
+    # exit()
 
     # X, Y = load_syn_data("./data/crf_small_data.mat")
 
